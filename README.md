@@ -1,4 +1,4 @@
-# Bioinformatics-Data-Portal-
+
 # Bioinformatics Data Portal
 
 A web-based application developed with PHP and MySQL for managing and analyzing bioinformatics data. The portal allows users to register, log in, and upload their bio data (such as gene sequences or other scientific data). It is designed to help researchers and bioinformaticians store and access biological data in an organized manner.
@@ -41,3 +41,13 @@ A web-based application developed with PHP and MySQL for managing and analyzing 
      email VARCHAR(100) NOT NULL,
      password VARCHAR(255) NOT NULL
    );
+
+
+**Installation**
+Clone or download this repository.
+
+Move the project files to the htdocs folder in your XAMPP installation directory (C:\xampp\htdocs on Windows).
+
+Open localhost in your browser and navigate to the project folder (e.g., http://localhost/bio-portal).
+
+Register an account or log in with existing credentials.
